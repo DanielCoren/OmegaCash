@@ -1,0 +1,18 @@
+Got config end = ''
+StatusCommand::Run()
+fstat  "D:/UProjects/OmegaCash/ProjectSettings/EditorSettings.asset" 
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Got config end = ''
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Got config end = ''
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Got config end = ''
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Got config end = ''
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Got config end = ''
